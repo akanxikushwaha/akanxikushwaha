@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanxi</h1>
 <h3 align="center">An aspiring software development engineer</h3>
 
-- 🌱 I’m currently learning **web development**
+I’m currently learning **web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
